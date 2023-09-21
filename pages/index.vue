@@ -2,6 +2,8 @@
 
 <template>
   <div>
-    <NuxtPage />
+    <TheHero />
   </div>
 </template>
+
+<style lang="scss" scoped></style>
