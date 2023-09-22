@@ -16,9 +16,9 @@
               <a href="mailto:christian@advokat.bergen.no">
                <ButtonTrailing text="Request prospectus" />
               </a>
-             <!-- <a href="/#features" class="text-sm font-semibold leading-6 text-gray-900" 
+              <a href="/#features" class="text-sm font-semibold leading-6 text-gray-900" 
                 >{{ $t("links.more") }} <span aria-hidden="true">→</span></a
-              > -->
+              > 
             </div>
           </div>
         </div>
