@@ -7,7 +7,7 @@
           <div class="mx-auto max-w-2xl lg:mx-0">
         
             <h1
-              class="text-6xl text-gray-900 font-medium tracking-tight mt-8 sm:mt-2 sm:text-8xl"
+              class="text-6xl font-display text-gray-900 font-medium tracking-tight mt-8 sm:mt-2 sm:text-8xl"
             >
               Villa Granly
             </h1>

@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   modules: [
     '@nuxtjs/i18n',
+    '@nuxtjs/google-fonts',
   ],
   i18n: {
     vueI18n: "./i18n.config.ts",
@@ -20,6 +21,18 @@ export default defineNuxtConfig({
     defaultLocale: "en",
     detectBrowserLanguage: {
       useCookie: false,
+    },
+  },
+  googleFonts: {
+    families: {
+      Roboto: true,
+      "Playfair+Display": [400, 500, 700],
+      Lato: [100, 300],
+      Inter: {
+        wght: [100, 300, 400, 500, 600, 700],
+        ital: [100, 300],
+      },
+      "Poiret One": [400],
     },
   },
   postcss: {
