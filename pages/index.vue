@@ -2,6 +2,7 @@
 
 <template>
   <div>
+    <Locale />
     <TheHero />
   </div>
 </template>
